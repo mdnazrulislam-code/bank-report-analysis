@@ -1,5 +1,7 @@
 # Bank Loan Report
 
+![bank loan](https://github.com/mdnazrulislam-code/bank-report-analysis/blob/main/Screenshot%202024-03-12%20235245.png)
+
 In this SQL project I integrated with Tableau and Excel. This project lead the bank to take data driven decision to enhance the Banking system as well as with the Bank loan process. 
 
 This is a project where the Bank can take the data driven decision. The visualization helps to take to determine the Month To Date (MTD) and Month Over Month (MoM) trends and difference. 
